@@ -1,0 +1,23 @@
+A: Gender Analysis:
+In terms of gender analysis, male players occupied 84.03% with total purchase value $1967.64, however only 14.06% of players are female with total purchase value approximately 1 of 6th of male players, which means the key demographic is male player. 
+B: Age Analysis:
+In terms of age analysis, we can see that the main players whose age from 15 to 24 accounts for about 63%. The percentage of 20-24 players is as much as 2.4 times of whose age falling in 15-19. The top age range who have more outstanding purchasing power is age 25-29 with $1114.06. Players aged at 15-19 are following with $412.89. The average total purchase per person of all age’s player are falling from 3.19 to 4.16 dollars with slim variance. 
+C: Item Analysis: 
+The top 5 items based on purchase count are:
+1.	Final Critic, 
+2.	Oathbreaker, Last Hope of the Breaking Storm, 
+3.	Fiery Glass Crusade, 
+4.	Persuasion, 
+5.	Extraction, Quickblade Of Trembling Hands
+
+The top 5 items based on total purchase value are:
+1.	Final Critic, 
+2.	Oathbreaker, Last Hope of the Breaking Storm, 
+3.	Nirvana,
+4.	Fiery Glass Crusade, 
+5.	Singed Scalpel	
+
+In conclusion, item as following are the top 3 of items are both popular and profitable. To some extent, a popular item are more likely to be a profitable item as well. 
+1.	Final Critic, 
+2.	Oathbreaker, Last Hope of the Breaking Storm, 
+3.	Fiery Glass Crusade
